@@ -90,6 +90,15 @@ nav ul li,
   text-decoration: none;
 }
 
+.text {
+  background-color: #5eb395;
+  border: 1px solid grey;
+  border-radius: 6px;
+  color: white;
+  display: inline-block;
+  padding: 6px 16px;
+}
+
 .member-login .cta {
   align-self: flex-start;
   position: relative;
