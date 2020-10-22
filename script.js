@@ -2,7 +2,7 @@ function myFunction() {
 	window.prompt("Please enter your name.","");
 	var txt;
 	if (confirm("Please confirm.")) {
-	txt = "Welcome in the real world!";
+	txt = "Welcome to the real world!";
 	} 
 	else {
 	txt = "Hope you will sign up next time.";
